@@ -64,7 +64,7 @@ table {
   padding-right: 0px
 }
 
-#interactiveContent .columns {
+#interactifoveContent .columns {
 	float:left;
 	position: relative;
 }
@@ -186,7 +186,7 @@ textarea,
 select {
 	display: block;
 	margin-bottom: 1em;
-	font-family: 'PTSerif';
+	font-family: 'Helvetica';
 	color: #666666;
 	border: 1px solid #ccc;
   -moz-box-sizing: border-box;
@@ -208,7 +208,7 @@ select {
 }
 
 label {
-	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-family: Helvetica, sans-serif;
 	color: #666666;
 	display: block;
 	font-size: 1em;
@@ -237,7 +237,7 @@ textarea {
 
 #datainput textarea,
 #datainput table {
-	font-family: Monaco, sans-serif;
+	font-family: Helvetica, sans-serif;
 }
 
 @media (min-width: 1250px) {
@@ -332,7 +332,7 @@ textarea {
 }
 
 .updateButton p {
-	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-family: Helvetica, sans-serif;
 	padding: 5px;
 	background-color: #999;
 	color: #ffffff;
